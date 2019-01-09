@@ -5,6 +5,10 @@
 ---
 
 # Free Script (clone) Airbnb.com
+Free Script (clone) Airbnb.com — Exact copy of Airbnb. Setup in 5 minutes!
+
+<hr />
+
 ## Copia esatta di Airbnb! Installazione in 5 minuti!
 ## <a href="https://demo.estate.im">Sito Web demo</a>
 
@@ -29,9 +33,9 @@
 
 <hr />
 
-Versione = 0.0.2 <br />
+Versione = 0.0.4 <br />
 Nome libreria = airbnb_clone_script <br />
-Titolo = Free Airbnb Script (Clone) <br />
+Title = Free Script (clone) Airbnb.com <br />
 Parole chiave = airbnb clone script estate wordpress site theme rental software python django <br />
 
 

@@ -4,7 +4,11 @@
 
 ---
 
-# Бесплатный скрипт (клон) Airbnb.com
+# Free Script (clone) Airbnb.com
+Free Script (clone) Airbnb.com — Exact copy of Airbnb. Setup in 5 minutes!
+
+<hr />
+
 ## Точная копия Airbnb! Настройка за 5 минут!
 ## <a href="https://demo.estate.im">Демо-сайт</a>
 
@@ -29,9 +33,9 @@
 
 <hr />
 
-Версия = 0.0.2 <br />
+Версия = 0.0.4 <br />
 Название библиотеки = airbnb_clone_script <br />
-Название = Free Airbnb Script (Clone) <br />
+Название = Free Script (clone) Airbnb.com <br />
 Ключевые слова = airbnb clone script estate wordpress site theme rental software python django <br />
 
 
